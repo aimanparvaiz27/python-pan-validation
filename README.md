@@ -1,12 +1,19 @@
 # python-pan-validation
 # Project Overview:
 This project validates and categorizes the Indian PAN numbers from a dataset using Python. It helps keep the data clean by finding which PAN numbers are correct, incorrect, or missing. The project utilizes regular expressions and straightforward Python code to simplify and automate the checking process.
+
 # Instructions
+
 # 1. Data Cleaning & Preprocessing
+
 Identify and handle missing values
+
 Check for duplicates
+
 Handle leading/trailing spaces
+
 Correct letter case
+
 # 2. Custom Validation Functions
 Checks for adjacent duplicate characters
 Checks if characters form a sequence (e.g., ABCDE or 1234)
